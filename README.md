@@ -1,1 +1,1 @@
-
+In case of a disaster human eye can miss people stuck in a disaster but this code is a face detection model which helps to count as well as box the humans so that it becomes easy to detect them in case of emergencies.
